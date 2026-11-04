@@ -1,0 +1,6 @@
+{
+  "name": "ONYX",
+  "description": "Super-application mondiale 18+ : flux vidéo vertical, gaming d'élite & tournois, live shopping avec radar GPS, portefeuille multi-devises et collaboration créateurs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
